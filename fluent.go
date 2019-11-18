@@ -2,7 +2,7 @@ package logrusfluent
 
 import (
 	"fmt"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/fluent/fluent-logger-golang/fluent"
 )
 
